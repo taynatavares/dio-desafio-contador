@@ -1,0 +1,1 @@
+Esse projeto consiste em um contador básico feito no javascript. 
